@@ -95,7 +95,7 @@ a:hover {
 
 .contact-left {
     margin-right: 70px;
-    margin-top: 150px;
+    margin-top: 1px;
 }
 
 .inner-contact {
@@ -134,7 +134,7 @@ a:hover {
 .contact-right {
     flex-basis: 50%;
     /* position: relative; */
-    margin-top: 100px;
+    margin-top: 222px;
 }
 
 .contact-right img {
@@ -151,7 +151,7 @@ a:hover {
     text-align: center;
     position: absolute;
     right: 700px;
-    bottom: -36px;
+    bottom: 102px;
     padding-left: 11px;
     padding-top: 10px;
 }
@@ -638,4 +638,8 @@ input[type="botton"]::placeholder {
     color: aliceblue;
 
 
+}
+
+footer.burger-house {
+    margin-bottom: 40px;
 }
